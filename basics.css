@@ -1,0 +1,23 @@
+p.highlight{
+    font-size: 40px;
+    color: brown;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    background-color: blueviolet;
+    padding: 50px;
+}
+
+#special {
+    border: 25px;
+    margin: 50px;
+}
+
+
+/* 
+using css border , margin, font family */
+
