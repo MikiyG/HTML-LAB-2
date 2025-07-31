@@ -1,0 +1,46 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    color: burlywood;
+
+
+}
+.description{
+
+    text-align: center;
+    text-decoration: underline;
+    height: 2em;
+    color: darkblue;
+
+}
+
+.action-link{
+    color:violet;
+    text-decoration: none;
+    
+}
+.action-link:hover{
+    color: green;
+    text-decoration: dotted;
+
+}
+
+a.action-link:active{
+    color: slateblue;
+}
+
+.skills{
+    margin: 25px;
+    border: 50px;
+    font-size: 50px;
+    color: blue;
+    letter-spacing: 10px;
+
+}
+
+a.action-link:visited{
+    color: red;
+}
